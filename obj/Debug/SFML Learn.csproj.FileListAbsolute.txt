@@ -1,0 +1,26 @@
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.AssemblyReference.cache
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.CoreCompileInputs.cache
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\SFML Learn.exe.config
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\SFML Learn.exe
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\SFML Learn.pdb
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\sfml-audio.dll
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\sfml-graphics.dll
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\sfml-learning.dll
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\sfml-system.dll
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\bin\Debug\sfml-window.dll
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.CopyComplete
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\obj\Debug\SFML Learn.exe
+C:\Users\ria_b\source\repos\SFML Learn\SFML Learn\obj\Debug\SFML Learn.pdb
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\SFML Learn.exe.config
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\SFML Learn.exe
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\SFML Learn.pdb
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\sfml-audio.dll
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\sfml-graphics.dll
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\sfml-learning.dll
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\sfml-system.dll
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\bin\Debug\sfml-window.dll
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.AssemblyReference.cache
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.CoreCompileInputs.cache
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\obj\Debug\SFML Learn.csproj.CopyComplete
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\obj\Debug\SFML Learn.exe
+E:\GIT TEST\Итоговое задание 7.6. 2 (HW-03)\SFML Learn\SFML Learn\obj\Debug\SFML Learn.pdb
